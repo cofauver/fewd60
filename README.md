@@ -1,24 +1,24 @@
-
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Front End Web Development 60
 
 Welcome to our course page!
 ### **[Daily pulse check](http://bit.ly/fewd60_exitticket)**
 
 # Schedule
+[Syllabus](https://drive.google.com/file/d/0B8Xkn5bpaj3KRG5CZW1zejBQVjQ/view)
 
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
-**0:** 0ctober 11 | No class | Orientation and [HTML & CSS (CF)][1W]  |
-**1:** October 16 and 18 | |  |  | 
-**2:** October 23 and 25 | |   |  | 
-**3:** October 30 and November 1 |  |  |   |
-**4:** November 6 and 8 |  |   |   |
-**5:** November 13 and 15 |  |   |   |
-**6:** November 20  |  | Thanksgiving, no class  |  | 
-**7:** November 27 and 29 |  |   |   |
-**8:** December 4 and 6 |  |   |  | 
-**9:** December 11 and 13 |  |   | |  
-**10:** December 18 and 20 |  |   | |  
+**0:** October 11 | No class | Orientation and [HTML basics][1W]  |  |
+**1:** October 16 and 18 | CSS basics | CSS Box Model |  |
+**2:** October 23 and 25 | Page Layout | Layout Lab  |  |
+**3:** October 30 and November 1 | HTML and CSS Lab | Intro to Programming |  |
+**4:** November 6 and 8 | jQuery Basics | Variables and Conditionals |   |
+**5:** November 13 and 15 | Functions | JavaScript Lab |  |
+**6:** November 20  | Review and Refactor | Thanksgiving, no class  |  |
+**7:** November 27 and 29 | Responsive Design | Web Forms |   |
+**8:** December 4 and 6 | To Do List Application | TBD |  |
+**9:** December 11 and 13 | TBD | TBD | |  
+**10:** December 18 and 20 | Lab time | Final Project Presentations  | |  
 
 [0M]: # "..."
 [0W]: # "..."
@@ -69,7 +69,7 @@ Week | Monday |  Wednesday | Homework |
 
 
 
-### Resources
+# Resources
 
 * [CSS tricks](https://css-tricks.com/)
 * Mozilla Developer Network (MDN)
