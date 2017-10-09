@@ -6,19 +6,19 @@ Welcome to our course page!
 
 # Schedule
 
- Week | Monday |  Wednesday | Homework |
------ | ----- | ------ | ---- | ----- | ---- |
+Week | Monday |  Wednesday | Homework |
+----- | ----- | ------ | ---- |
 **0:** 0ctober 11 | No class | Orientation and [HTML & CSS (CF)][1W]  |
-**1:** October 16 and 18 | |  |  
-**2:** October 23 and 25 | |   |  
-**3:** October 30 and November 1 |  |  |  
-**4:** November 6 and 8 |  |   |  
-**5:** November 13 and 15 |  |   |  
-**6:** November 20  |  | Thanksgiving, no class  |  
-**7:** November 27 and 29 |  |   |  
-**8:** December 4 and 6 |  |   |  
-**9:** December 11 and 13 |  |   |  
-**10:** December 18 and 20 |  |   |  
+**1:** October 16 and 18 | |  |  | 
+**2:** October 23 and 25 | |   |  | 
+**3:** October 30 and November 1 |  |  |   |
+**4:** November 6 and 8 |  |   |   |
+**5:** November 13 and 15 |  |   |   |
+**6:** November 20  |  | Thanksgiving, no class  |  | 
+**7:** November 27 and 29 |  |   |   |
+**8:** December 4 and 6 |  |   |  | 
+**9:** December 11 and 13 |  |   | |  
+**10:** December 18 and 20 |  |   | |  
 
 [0M]: # "..."
 [0W]: # "..."
