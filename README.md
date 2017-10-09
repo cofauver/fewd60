@@ -2,7 +2,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Front End Web Development 60
 
 Welcome to our course page!
-### **[Daily pulse check]()**
+### **[Daily pulse check](http://bit.ly/fewd60_exitticket)**
 
 # Schedule
 
