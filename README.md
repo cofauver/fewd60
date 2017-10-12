@@ -4,7 +4,8 @@ Welcome to our course page!
 ### **[Daily pulse check](http://bit.ly/fewd60_exitticket)**
 
 # Schedule
-[Syllabus](https://drive.google.com/file/d/0B8Xkn5bpaj3KRG5CZW1zejBQVjQ/view)
+* [Syllabus](https://drive.google.com/file/d/0B8Xkn5bpaj3KRG5CZW1zejBQVjQ/view)
+* [Homework Presentations](https://docs.google.com/spreadsheets/d/1C8MEWs1j84YWrifGvV2uSq79sEIMyJkI8QTZcZHbk2c/edit#gid=0)
 
 Week | Monday |  Wednesday | Homework |
 ----- | ----- | ------ | ---- |
@@ -25,7 +26,7 @@ Week | Monday |  Wednesday | Homework |
 [0H]: # "..."
 
 [1M]: # "..."
-[1W]: # "..."
+[1W]: https://docs.google.com/presentation/d/1mNgiufC1fkp1DdMb7nLtlqWDD-MhvcnyQoX19LWu7oI/edit#slide=id.g10525f8a8b_0_30 "day 1 slides"
 [1H]: # "..."
 
 [2M]: # "..."
